@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as l,ai as t}from"./chunks/framework.BHEbiC4_.js";const o=JSON.parse('{"title":"发行版","description":"","frontmatter":{},"headers":[],"relativePath":"distro.md","filePath":"distro.md"}'),n={name:"distro.md"};function e(h,i,p,k,r,d){return a(),l("div",null,[...i[0]||(i[0]=[t("",88)])])}const F=s(n,[["render",e]]);export{o as __pageData,F as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as o}from"./chunks/framework.BHEbiC4_.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fromzero.md","filePath":"fromzero.md"}'),t={name:"fromzero.md"};function a(s,c,n,m,f,p){return r(),o("div")}const i=e(t,[["render",a]]);export{d as __pageData,i as default};

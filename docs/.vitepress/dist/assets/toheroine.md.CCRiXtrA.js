@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.BHEbiC4_.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"toheroine.md","filePath":"toheroine.md"}'),r={name:"toheroine.md"};function a(n,s,c,i,p,_){return t(),o("div")}const f=e(r,[["render",a]]);export{m as __pageData,f as default};
