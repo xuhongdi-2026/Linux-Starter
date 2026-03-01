@@ -44,6 +44,8 @@ jobs:
         run: npm ci # 或 pnpm install / yarn install
       - name: Build with VitePress
         run: npm run docs:build # 或 pnpm docs:build / yarn docs:build
+      - name: Copy root index.html to dist
+        run: cp index.html docs/.vitepress/dist/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
